@@ -5,14 +5,22 @@
 
 header,
 footer {
+<<<<<<< HEAD
     width: 100%
+=======
+    width: 100%;
+>>>>>>> eca832304aabfd2b5284917101f45e64dbb4a137
     height: 120px;
     background-color: blue;
     color: white;
 }
 
 h1,
+<<<<<<< HEAD
 h2 {
+=======
+h2, h3 {
+>>>>>>> eca832304aabfd2b5284917101f45e64dbb4a137
     text-align: center;
 }
 
@@ -32,4 +40,15 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+<<<<<<< HEAD
 }
+=======
+  }
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+  }
+>>>>>>> eca832304aabfd2b5284917101f45e64dbb4a137
